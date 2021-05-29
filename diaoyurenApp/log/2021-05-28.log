@@ -1,0 +1,714 @@
+2021-05-28 17:02:20,087 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:02:39,798 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:02:39,799 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:02:39,800 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 17:12:07,997 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:12:26,376 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:12:26,427 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:12:26,428 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:12:26,429 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:12:26,430 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:12:26,466 - root - WARNING - 退出登陆失败
+2021-05-28 17:12:26,467 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:12:46,073 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:13:04,069 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:13:04,123 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:13:04,124 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:13:04,125 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:13:04,125 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:13:04,166 - root - WARNING - 退出登陆失败
+2021-05-28 17:13:04,167 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:17:25,512 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:17:43,168 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:17:43,217 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:17:43,218 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:17:43,218 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:17:43,219 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:17:43,255 - root - WARNING - 退出登陆失败
+2021-05-28 17:17:43,256 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:18:31,668 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:18:49,626 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:18:49,680 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:18:49,681 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:18:49,682 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:18:49,682 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:18:49,718 - root - WARNING - 退出登陆失败
+2021-05-28 17:18:49,718 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:18:51,722 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:18:51,723 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:18:51,724 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 17:22:47,457 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:23:06,927 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:23:06,928 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:23:11,982 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:23:11,983 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:23:11,984 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 17:25:17,369 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:25:35,915 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:25:35,916 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:25:39,830 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:25:39,831 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:25:39,831 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 17:32:38,063 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:32:56,661 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:32:56,662 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:33:00,581 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:33:00,601 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:33:00,602 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:33:01,630 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 17:33:01,631 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 17:33:02,736 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:33:02,737 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:33:02,738 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 17:33:03,280 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfof123
+2021-05-28 17:33:03,281 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 17:33:03,801 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 17:33:03,802 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 17:33:04,307 - root - INFO - 登录操作完成
+2021-05-28 17:33:07,309 - root - WARNING - 未发现昵称：('id', 'com.lchr.diaoyu:id/user_nick_name')
+2021-05-28 17:33:07,310 - root - WARNING - an integer is required (got type tuple)
+2021-05-28 17:39:34,017 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:39:53,481 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:39:53,482 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:39:56,538 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:39:56,771 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:39:56,772 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:39:56,772 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:39:56,773 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:39:56,808 - root - WARNING - 退出登陆失败
+2021-05-28 17:39:56,809 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:39:56,811 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:39:56,812 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:39:56,812 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 17:45:34,197 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:45:54,524 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:45:54,526 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:45:57,585 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:45:57,794 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:45:57,795 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:45:57,796 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:45:57,797 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:45:57,839 - root - WARNING - 退出登陆失败
+2021-05-28 17:45:57,840 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:45:57,843 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:45:57,843 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:45:57,844 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 17:51:23,774 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 17:51:43,566 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:51:43,567 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 17:51:46,628 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:51:46,864 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 17:51:46,864 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 17:51:46,865 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/iv_top_navi_setting')
+2021-05-28 17:51:46,866 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/iv_top_navi_setting')
+2021-05-28 17:51:48,916 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/rtv_setting_logout')
+2021-05-28 17:51:48,918 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/rtv_setting_logout')
+2021-05-28 17:51:50,959 - root - INFO - 开始点击页面元素：('id', 'android:id/button1')
+2021-05-28 17:51:50,960 - root - INFO - 开始查找页面元素：('id', 'android:id/button1')
+2021-05-28 17:51:53,984 - root - INFO - 退出登录成功
+2021-05-28 17:51:53,987 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 17:51:53,987 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 17:51:53,988 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 18:03:53,243 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 18:04:12,787 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 18:04:12,789 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 18:04:15,849 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:04:16,055 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:04:16,056 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:04:18,085 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 18:04:18,086 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 18:04:20,113 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 18:04:20,114 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 18:04:20,115 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 18:04:20,650 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfof123
+2021-05-28 18:04:20,650 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 18:04:21,168 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 18:04:21,169 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 18:04:21,672 - root - INFO - 登录操作完成
+2021-05-28 18:04:24,674 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_nick_name')
+2021-05-28 18:04:24,690 - root - INFO - +++++++++正向用例测试通过++++++++++
+2021-05-28 18:04:25,038 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\正向用例测试截图-2021-05-28_18_04_24.png
+2021-05-28 18:17:10,853 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 18:17:29,599 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 18:17:29,600 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 18:17:32,655 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:17:32,881 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:17:32,882 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 18:17:32,883 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/iv_top_navi_setting')
+2021-05-28 18:17:32,884 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/iv_top_navi_setting')
+2021-05-28 18:17:34,938 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/rtv_setting_logout')
+2021-05-28 18:17:34,940 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/rtv_setting_logout')
+2021-05-28 18:17:36,980 - root - INFO - 开始点击页面元素：('id', 'android:id/button1')
+2021-05-28 18:17:36,980 - root - INFO - 开始查找页面元素：('id', 'android:id/button1')
+2021-05-28 18:17:40,005 - root - INFO - 退出登录成功
+2021-05-28 18:17:40,007 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 18:17:40,008 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 18:17:40,009 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 18:39:16,463 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 18:39:35,203 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 18:39:35,203 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 18:39:38,328 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:39:38,474 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:39:38,474 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 18:39:40,503 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 18:39:40,503 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 18:39:42,530 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 18:39:42,531 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 18:39:42,532 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 18:39:43,067 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfof123
+2021-05-28 18:39:43,068 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 18:39:43,586 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 18:39:43,587 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 18:39:44,092 - root - INFO - 登录操作完成
+2021-05-28 18:39:47,093 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_nick_name')
+2021-05-28 18:39:47,108 - root - INFO - +++++++++正向用例测试通过++++++++++
+2021-05-28 18:39:47,421 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\正向用例测试截图-2021-05-28_18_39_47.png
+2021-05-28 19:55:57,396 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 19:56:16,820 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 19:56:16,821 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 19:56:22,902 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 19:56:22,938 - root - INFO - 未找到页面登录元素:('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 19:56:22,939 - root - ERROR - Message: An element could not be located on the page using the given search parameters.
+
+2021-05-28 19:56:22,940 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/iv_top_navi_setting')
+2021-05-28 19:56:22,941 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/iv_top_navi_setting')
+2021-05-28 19:56:24,990 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/rtv_setting_logout')
+2021-05-28 19:56:24,992 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/rtv_setting_logout')
+2021-05-28 19:56:27,035 - root - INFO - 开始点击页面元素：('id', 'android:id/button1')
+2021-05-28 19:56:27,036 - root - INFO - 开始查找页面元素：('id', 'android:id/button1')
+2021-05-28 19:56:30,063 - root - INFO - 退出登录成功
+2021-05-28 19:56:30,066 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 19:56:30,068 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 19:56:30,069 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:56:30,251 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 19:56:30,252 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 19:56:30,253 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:56:30,336 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 19:56:30,337 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 19:56:30,338 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:56:30,426 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 19:56:30,427 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 19:56:30,428 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:58:05,091 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 19:58:24,356 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 19:58:24,357 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 19:58:27,429 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 19:58:27,491 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 19:58:27,492 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 19:58:29,529 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 19:58:29,530 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 19:58:32,605 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 19:58:32,606 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 19:58:32,607 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:58:33,155 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 19:58:33,155 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 19:58:33,675 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:33,675 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:34,183 - root - INFO - 登录操作完成
+2021-05-28 19:58:35,261 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 19:58:35,262 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 19:58:35,263 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:58:35,839 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 19:58:35,840 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 19:58:36,357 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:36,358 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:36,859 - root - INFO - 登录操作完成
+2021-05-28 19:58:37,869 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 19:58:37,870 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 19:58:37,871 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:58:38,421 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 19:58:38,422 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 19:58:38,938 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:38,939 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:39,444 - root - INFO - 登录操作完成
+2021-05-28 19:58:40,454 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 19:58:40,455 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 19:58:40,455 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 19:58:41,006 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 19:58:41,007 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 19:58:41,526 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:41,527 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 19:58:42,031 - root - INFO - 登录操作完成
+2021-05-28 20:04:30,364 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:04:50,495 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:04:50,496 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:04:53,559 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:04:53,757 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:04:53,758 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:04:55,789 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:04:55,790 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:04:57,827 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:04:57,827 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:04:57,828 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:04:58,371 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:04:58,372 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:04:58,895 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:04:58,896 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:04:59,911 - root - INFO - 登录操作完成
+2021-05-28 20:05:00,983 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:05:00,984 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:05:00,985 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:05:01,525 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:05:01,526 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:05:02,042 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:05:02,043 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:05:02,547 - root - INFO - 登录操作完成
+2021-05-28 20:05:03,558 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:05:03,559 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:05:03,559 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:05:04,105 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:05:04,106 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:05:04,622 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:05:04,623 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:05:05,128 - root - INFO - 登录操作完成
+2021-05-28 20:05:06,140 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:05:06,141 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:05:06,142 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:05:06,688 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:05:06,689 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:05:07,207 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:05:07,208 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:05:07,712 - root - INFO - 登录操作完成
+2021-05-28 20:07:18,097 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:07:37,581 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:07:37,581 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:07:40,640 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:07:40,767 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:07:40,768 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:07:42,800 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:07:42,801 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:07:44,835 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:07:44,836 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:07:44,837 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:07:45,373 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:07:45,374 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:07:45,891 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:45,892 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:46,406 - root - INFO - 反向用例输入完成
+2021-05-28 20:07:47,445 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:07:47,447 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:07:47,448 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:07:47,990 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:07:47,991 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:07:48,506 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:48,506 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:49,010 - root - INFO - 反向用例输入完成
+2021-05-28 20:07:50,095 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:07:50,097 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:07:50,098 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:07:50,639 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:07:50,640 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:07:51,155 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:51,156 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:51,661 - root - INFO - 反向用例输入完成
+2021-05-28 20:07:52,671 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:07:52,672 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:07:52,673 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:07:53,221 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:07:53,221 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:07:53,741 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:53,742 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:07:54,246 - root - INFO - 反向用例输入完成
+2021-05-28 20:09:28,118 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:09:47,408 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:09:47,409 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:09:50,471 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:09:50,634 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:09:50,635 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:09:52,671 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:09:52,672 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:09:54,704 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:09:54,705 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:09:54,705 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:09:55,503 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:09:55,504 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:09:56,208 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:09:56,209 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:09:57,231 - root - INFO - 反向用例输入完成
+2021-05-28 20:09:58,305 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:09:58,306 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:09:58,307 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:09:58,898 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:09:58,899 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:09:59,378 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:09:59,379 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:09:59,915 - root - INFO - 反向用例输入完成
+2021-05-28 20:10:00,926 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:10:00,927 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:10:00,928 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:10:01,474 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:10:01,475 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:10:01,989 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:10:01,990 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:10:02,495 - root - INFO - 反向用例输入完成
+2021-05-28 20:10:03,549 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:10:03,550 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:10:03,551 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:10:04,089 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:10:04,090 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:10:04,609 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:10:04,610 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:10:05,113 - root - INFO - 反向用例输入完成
+2021-05-28 20:11:22,331 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:11:41,589 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:11:41,589 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:11:44,655 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:11:45,082 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:11:45,083 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:11:48,271 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:11:48,272 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:11:50,307 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:11:50,308 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:11:50,309 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:11:50,859 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:11:50,860 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:11:51,376 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:51,377 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:51,879 - root - INFO - 反向用例输入完成
+2021-05-28 20:11:51,941 - root - INFO - 找到toast：('xpath', '//*[contains(@text,toast)]')
+2021-05-28 20:11:52,075 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_11_51.png
+2021-05-28 20:11:52,118 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:11:52,120 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:11:52,122 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:11:52,942 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:11:52,943 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:11:53,458 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:53,459 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:53,962 - root - INFO - 反向用例输入完成
+2021-05-28 20:11:54,010 - root - INFO - 找到toast：('xpath', '//*[contains(@text,toast)]')
+2021-05-28 20:11:54,175 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_11_54.png
+2021-05-28 20:11:54,189 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:11:54,190 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:11:54,191 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:11:55,091 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:11:55,092 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:11:55,608 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:55,609 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:56,116 - root - INFO - 反向用例输入完成
+2021-05-28 20:11:56,191 - root - INFO - 找到toast：('xpath', '//*[contains(@text,toast)]')
+2021-05-28 20:11:56,323 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_11_56.png
+2021-05-28 20:11:56,332 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:11:56,334 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:11:56,336 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:11:57,173 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:11:57,173 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:11:57,691 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:57,692 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:11:58,197 - root - INFO - 反向用例输入完成
+2021-05-28 20:11:58,243 - root - INFO - 找到toast：('xpath', '//*[contains(@text,toast)]')
+2021-05-28 20:11:58,372 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_11_58.png
+2021-05-28 20:12:53,600 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:13:13,299 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:13:13,300 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:13:16,368 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:13:16,555 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:13:16,557 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:13:18,592 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:13:18,593 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:13:20,627 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:13:20,628 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:13:20,629 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:13:21,180 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:13:21,181 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:13:21,706 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:21,707 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:22,211 - root - INFO - 反向用例输入完成
+2021-05-28 20:13:22,257 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:13:22,257 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:13:22,258 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:13:23,257 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:13:23,258 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:13:23,774 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:23,775 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:24,285 - root - INFO - 反向用例输入完成
+2021-05-28 20:13:24,298 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:13:24,300 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:13:24,302 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:13:25,472 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:13:25,473 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:13:25,990 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:25,991 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:26,495 - root - INFO - 反向用例输入完成
+2021-05-28 20:13:26,544 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:13:26,545 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:13:26,546 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:13:27,556 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:13:27,557 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:13:28,073 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:28,074 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:13:28,578 - root - INFO - 反向用例输入完成
+2021-05-28 20:14:24,534 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:14:44,025 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:14:44,027 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:14:48,522 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:14:48,543 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:14:48,544 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:14:51,688 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:14:51,689 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:14:53,722 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:14:53,723 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:14:53,724 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:14:54,276 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:14:54,277 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:14:54,793 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:14:54,794 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:14:55,295 - root - INFO - 反向用例输入完成
+2021-05-28 20:14:55,344 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:14:55,345 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:14:55,346 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:14:56,356 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:14:56,357 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:14:56,873 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:14:56,874 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:14:57,377 - root - INFO - 反向用例输入完成
+2021-05-28 20:14:57,428 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:14:57,429 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:14:57,431 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:14:58,722 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:14:58,723 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:14:59,240 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:14:59,241 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:14:59,908 - root - INFO - 反向用例输入完成
+2021-05-28 20:14:59,920 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:14:59,921 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:14:59,921 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:15:00,958 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:15:00,960 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:15:01,473 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:15:01,474 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:15:01,981 - root - INFO - 反向用例输入完成
+2021-05-28 20:16:00,591 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:16:19,846 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:16:19,847 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:16:23,437 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:16:23,457 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:16:23,458 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:16:25,495 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:16:25,497 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:16:27,527 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:16:27,529 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:16:27,530 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:16:28,073 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:16:28,073 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:16:28,590 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:28,591 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:29,096 - root - INFO - 反向用例输入完成
+2021-05-28 20:16:29,172 - root - INFO - 找到toast：('xpath', '//*[contains(@text,用户名不能为空)]')
+2021-05-28 20:16:29,311 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_16_29.png
+2021-05-28 20:16:29,431 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名为空-2021-05-28_20_16_29.png
+2021-05-28 20:16:29,473 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:16:29,474 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:16:29,475 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:16:30,156 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:16:30,157 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:16:30,673 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:30,674 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:31,184 - root - INFO - 反向用例输入完成
+2021-05-28 20:16:51,657 - root - ERROR - Message: 
+
+2021-05-28 20:16:51,659 - root - WARNING - 查找toast：('xpath', '//*[contains(@text,登录验证失败，用户名不存在)]')
+2021-05-28 20:16:51,777 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\未发现toast-2021-05-28_20_16_51.png
+2021-05-28 20:16:51,857 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:16:51,858 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:16:51,860 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:16:52,442 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:16:52,443 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:16:52,957 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:52,958 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:53,979 - root - INFO - 反向用例输入完成
+2021-05-28 20:16:54,006 - root - INFO - 找到toast：('xpath', '//*[contains(@text,密码不能为空)]')
+2021-05-28 20:16:54,131 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_16_54.png
+2021-05-28 20:16:54,242 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-密码为空-2021-05-28_20_16_54.png
+2021-05-28 20:16:54,247 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:16:54,248 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:16:54,249 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:16:54,791 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:16:54,791 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:16:55,695 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:55,695 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:16:56,791 - root - INFO - 反向用例输入完成
+2021-05-28 20:16:56,825 - root - INFO - 找到toast：('xpath', '//*[contains(@text,账号或密码错误)]')
+2021-05-28 20:16:56,941 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_16_56.png
+2021-05-28 20:16:57,047 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名正确-密码错误-2021-05-28_20_16_56.png
+2021-05-28 20:18:05,883 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:18:25,339 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:18:25,340 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:18:28,402 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:18:28,590 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:18:28,591 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:18:30,629 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:18:30,630 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:18:32,658 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:18:32,659 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:18:32,661 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:18:33,206 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:18:33,206 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:18:33,723 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:18:33,723 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:18:34,227 - root - INFO - 反向用例输入完成
+2021-05-28 20:18:35,274 - root - INFO - 找到toast：('xpath', '//*[contains(@text,用户名不能为空)]')
+2021-05-28 20:18:35,405 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_18_35.png
+2021-05-28 20:18:35,580 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名为空-2021-05-28_20_18_35.png
+2021-05-28 20:18:35,586 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:18:35,587 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:18:35,588 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:18:36,122 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:18:36,123 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:18:36,638 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:18:36,639 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:18:37,145 - root - INFO - 反向用例输入完成
+2021-05-28 20:18:58,497 - root - ERROR - Message: 
+
+2021-05-28 20:18:58,498 - root - WARNING - 查找toast：('xpath', '//*[contains(@text,登录验证失败，用户名不存在)]')
+2021-05-28 20:18:58,610 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\未发现toast-2021-05-28_20_18_58.png
+2021-05-28 20:18:58,646 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:18:58,647 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:18:58,648 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:18:59,192 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:18:59,193 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:18:59,921 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:18:59,922 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:19:00,945 - root - INFO - 反向用例输入完成
+2021-05-28 20:19:01,968 - root - INFO - 找到toast：('xpath', '//*[contains(@text,密码不能为空)]')
+2021-05-28 20:19:02,114 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_19_01.png
+2021-05-28 20:19:02,232 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-密码为空-2021-05-28_20_19_02.png
+2021-05-28 20:19:02,240 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:19:02,241 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:19:02,242 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:19:02,783 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:19:02,784 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:19:03,311 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:19:03,312 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:19:03,821 - root - INFO - 反向用例输入完成
+2021-05-28 20:19:04,851 - root - INFO - 找到toast：('xpath', '//*[contains(@text,账号或密码错误)]')
+2021-05-28 20:19:04,969 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_19_04.png
+2021-05-28 20:19:05,087 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名正确-密码错误-2021-05-28_20_19_04.png
+2021-05-28 20:21:30,832 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:21:49,605 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:21:49,606 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:21:52,671 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:21:52,876 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:21:52,878 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:21:54,915 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:21:54,916 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:21:56,946 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:21:56,948 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:21:56,949 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:21:57,489 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:21:57,490 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:21:58,008 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:21:58,009 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:21:58,512 - root - INFO - 反向用例输入完成
+2021-05-28 20:21:59,940 - root - INFO - 找到toast：('xpath', '//*[contains(@text,用户名不能为空)]')
+2021-05-28 20:22:00,068 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_21_59.png
+2021-05-28 20:22:00,193 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名为空-2021-05-28_20_22_00.png
+2021-05-28 20:22:00,227 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:22:00,228 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:22:00,229 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:22:00,773 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:22:00,774 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:22:01,290 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:01,291 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:01,798 - root - INFO - 反向用例输入完成
+2021-05-28 20:22:02,827 - root - INFO - 找到toast：('xpath', '//*[contains(@text,用户名不存在)]')
+2021-05-28 20:22:02,945 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_22_02.png
+2021-05-28 20:22:03,062 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名错误-密码正确-2021-05-28_20_22_02.png
+2021-05-28 20:22:03,071 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:22:03,072 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:22:03,073 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:22:03,625 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:22:03,626 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:22:04,139 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:04,140 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:04,644 - root - INFO - 反向用例输入完成
+2021-05-28 20:22:05,670 - root - INFO - 找到toast：('xpath', '//*[contains(@text,密码不能为空)]')
+2021-05-28 20:22:05,774 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_22_05.png
+2021-05-28 20:22:05,904 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-密码为空-2021-05-28_20_22_05.png
+2021-05-28 20:22:05,910 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:22:05,911 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:22:05,913 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:22:06,458 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:22:06,459 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:22:06,973 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:06,974 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:07,493 - root - INFO - 反向用例输入完成
+2021-05-28 20:22:08,520 - root - INFO - 找到toast：('xpath', '//*[contains(@text,账号或密码错误)]')
+2021-05-28 20:22:08,636 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_22_08.png
+2021-05-28 20:22:08,759 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名正确-密码错误-2021-05-28_20_22_08.png
+2021-05-28 20:22:26,181 - root - INFO - ++++++++++++++++++开始执行测试用例+++++++++++++++
+2021-05-28 20:22:45,354 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:22:45,355 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_tab_mine')
+2021-05-28 20:22:49,173 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:22:49,198 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:22:49,199 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_click2login')
+2021-05-28 20:22:51,235 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:22:51,237 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/tv_account_login')
+2021-05-28 20:22:53,271 - root - INFO - 开始执行反向测试用例：反向用例-用户名为空
+2021-05-28 20:22:53,272 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，
+2021-05-28 20:22:53,273 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:22:53,823 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:22:53,823 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:22:54,342 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:54,343 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:54,847 - root - INFO - 反向用例输入完成
+2021-05-28 20:22:55,898 - root - INFO - 找到toast：('xpath', '//*[contains(@text,用户名不能为空)]')
+2021-05-28 20:22:56,013 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_22_55.png
+2021-05-28 20:22:56,131 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名为空-2021-05-28_20_22_56.png
+2021-05-28 20:22:56,217 - root - INFO - 开始执行反向测试用例：反向用例-用户名错误-密码正确
+2021-05-28 20:22:56,218 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+2021-05-28 20:22:56,219 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:22:56,756 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+2021-05-28 20:22:56,757 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:22:57,276 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:57,277 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:22:57,780 - root - INFO - 反向用例输入完成
+2021-05-28 20:22:58,805 - root - INFO - 找到toast：('xpath', '//*[contains(@text,用户名不存在)]')
+2021-05-28 20:22:58,926 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_22_58.png
+2021-05-28 20:22:59,039 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名错误-密码正确-2021-05-28_20_22_58.png
+2021-05-28 20:22:59,045 - root - INFO - 开始执行反向测试用例：反向用例-密码为空
+2021-05-28 20:22:59,047 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:22:59,048 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:22:59,915 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，
+2021-05-28 20:22:59,916 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:23:00,448 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:23:00,449 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:23:00,965 - root - INFO - 反向用例输入完成
+2021-05-28 20:23:01,993 - root - INFO - 找到toast：('xpath', '//*[contains(@text,密码不能为空)]')
+2021-05-28 20:23:02,129 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_23_01.png
+2021-05-28 20:23:02,249 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-密码为空-2021-05-28_20_23_02.png
+2021-05-28 20:23:02,255 - root - INFO - 开始执行反向测试用例：反向用例-用户名正确-密码错误
+2021-05-28 20:23:02,256 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:23:02,256 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:23:02,808 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnl
+2021-05-28 20:23:02,810 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:23:03,326 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:23:03,327 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:23:03,831 - root - INFO - 反向用例输入完成
+2021-05-28 20:23:04,855 - root - INFO - 找到toast：('xpath', '//*[contains(@text,账号或密码错误)]')
+2021-05-28 20:23:04,970 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\toast截图-2021-05-28_20_23_04.png
+2021-05-28 20:23:05,096 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\反向用例-用户名正确-密码错误-2021-05-28_20_23_04.png
+2021-05-28 20:23:05,100 - root - INFO - ++++++++++++++开始执行正向用例+++++++++++
+2021-05-28 20:23:05,101 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
+2021-05-28 20:23:05,102 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+2021-05-28 20:23:05,657 - root - INFO - 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfof123
+2021-05-28 20:23:05,658 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+2021-05-28 20:23:06,175 - root - INFO - 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:23:06,175 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+2021-05-28 20:23:06,679 - root - INFO - 登录操作完成
+2021-05-28 20:23:09,680 - root - INFO - 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_nick_name')
+2021-05-28 20:23:09,707 - root - INFO - +++++++++正向用例测试通过++++++++++
+2021-05-28 20:23:10,205 - root - INFO - 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\正向用例测试截图-2021-05-28_20_23_09.png

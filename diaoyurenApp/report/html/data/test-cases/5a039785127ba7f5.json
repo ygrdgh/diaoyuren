@@ -1,0 +1,259 @@
+{
+  "uid" : "5a039785127ba7f5",
+  "name" : "登录测试正向用例",
+  "fullName" : "cases.test_login.TestLogin#test_login_success",
+  "historyId" : "4de4eac7aa5437331edc4ae996ff58ee",
+  "time" : {
+    "start" : 1622204585101,
+    "stop" : 1622204590207,
+    "duration" : 5106
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "prepare_to_login",
+    "time" : {
+      "start" : 1622204565353,
+      "stop" : 1622204573267,
+      "duration" : 7914
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "handler",
+    "time" : {
+      "start" : 1622204546920,
+      "stop" : 1622204565353,
+      "duration" : 18433
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "85e3696c8cd1405c",
+      "name" : "log",
+      "source" : "85e3696c8cd1405c.txt",
+      "type" : "text/plain",
+      "size" : 5647
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "handler::0",
+    "time" : {
+      "start" : 1622204590208,
+      "stop" : 1622204590692,
+      "duration" : 484
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "钓鱼人APP自动化测试"
+  }, {
+    "name" : "feature",
+    "value" : "钓鱼人APP自动化测试-登陆功能测试"
+  }, {
+    "name" : "story",
+    "value" : "钓鱼人APP自动化测试正向用例测试"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=-1)"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('prepare_to_login')"
+  }, {
+    "name" : "tag",
+    "value" : "last"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIG6MR7"
+  }, {
+    "name" : "thread",
+    "value" : "17644-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "65fa194263bc76a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622198382530,
+        "stop" : 1622198387421,
+        "duration" : 4891
+      }
+    }, {
+      "uid" : "116e14d508dfb88c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622197060007,
+        "stop" : 1622197060046,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "918605c15ecab2cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622196260113,
+        "stop" : 1622196265038,
+        "duration" : 4925
+      }
+    }, {
+      "uid" : "326cd74231e1bc4d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622195513987,
+        "stop" : 1622195514025,
+        "duration" : 38
+      }
+    }, {
+      "uid" : "4bb6b0c116f98e69",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622195157842,
+        "stop" : 1622195157881,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "e4ee045dd89963d6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622194796811,
+        "stop" : 1622194796847,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "a5c1adce9fb8b198",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <bound method PageAction.is_nickname_exists of <pages.page_action.PageAction object at 0x000001DCC518E860>>()\n +    where <bound method PageAction.is_nickname_exists of <pages.page_action.PageAction object at 0x000001DCC518E860>> = <pages.page_action.PageAction object at 0x000001DCC518E860>.is_nickname_exists",
+      "time" : {
+        "start" : 1622194382736,
+        "stop" : 1622194387311,
+        "duration" : 4575
+      }
+    }, {
+      "uid" : "3c18f3c516fe239c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622193939829,
+        "stop" : 1622193939868,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "f98bc35166404004",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622193791982,
+        "stop" : 1622193792028,
+        "duration" : 46
+      }
+    }, {
+      "uid" : "c303328efe37536e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622193531721,
+        "stop" : 1622193531760,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "bbdc67f01cc47925",
+      "status" : "broken",
+      "statusDetails" : "TypeError: go_to_login_page() missing 1 required positional argument: 'self'",
+      "time" : {
+        "start" : 1622193465258,
+        "stop" : 1622193465258,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "59b0dae876ec9e9a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: go_to_login_page() missing 1 required positional argument: 'self'",
+      "time" : {
+        "start" : 1622193186169,
+        "stop" : 1622193186169,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6bc5040c0e121026",
+      "status" : "broken",
+      "statusDetails" : "TypeError: go_to_login_page() missing 1 required positional argument: 'self'",
+      "time" : {
+        "start" : 1622193148469,
+        "stop" : 1622193148470,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ad9ffd802d652ac4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622192559798,
+        "stop" : 1622192559854,
+        "duration" : 56
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "last", "run(order=-1)", "@pytest.mark.usefixtures('prepare_to_login')" ]
+  },
+  "source" : "5a039785127ba7f5.json",
+  "parameterValues" : [ ]
+}

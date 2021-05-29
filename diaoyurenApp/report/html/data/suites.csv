@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 28 20:22:59 CST 2021","Fri May 28 20:23:02 CST 2021","3206","cases","test_login","TestLogin","","","登录测试反向用例",""
+"passed","Fri May 28 20:22:53 CST 2021","Fri May 28 20:22:56 CST 2021","2863","cases","test_login","TestLogin","","","登录测试反向用例",""
+"passed","Fri May 28 20:23:05 CST 2021","Fri May 28 20:23:10 CST 2021","5106","cases","test_login","TestLogin","","","登录测试正向用例",""
+"passed","Fri May 28 20:23:02 CST 2021","Fri May 28 20:23:05 CST 2021","2841","cases","test_login","TestLogin","","","登录测试反向用例",""
+"passed","Fri May 28 20:22:56 CST 2021","Fri May 28 20:22:59 CST 2021","2824","cases","test_login","TestLogin","","","登录测试反向用例",""

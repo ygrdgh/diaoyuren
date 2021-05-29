@@ -1,0 +1,230 @@
+{
+  "uid" : "4460fd8b0543719b",
+  "name" : "登录测试反向用例",
+  "fullName" : "cases.test_login.TestLogin#test_login_failed",
+  "historyId" : "28fbee3f7849e5c692210a9f12e7fe96",
+  "time" : {
+    "start" : 1622204576216,
+    "stop" : 1622204579040,
+    "duration" : 2824
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "prepare_to_login",
+    "time" : {
+      "start" : 1622204565353,
+      "stop" : 1622204573267,
+      "duration" : 7914
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "handler",
+    "time" : {
+      "start" : 1622204546920,
+      "stop" : 1622204565353,
+      "duration" : 18433
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "89416a28709e4ef",
+      "name" : "log",
+      "source" : "89416a28709e4ef.txt",
+      "type" : "text/plain",
+      "size" : 5785
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "handler::0",
+    "time" : {
+      "start" : 1622204590208,
+      "stop" : 1622204590692,
+      "duration" : 484
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "钓鱼人APP自动化测试-登陆功能测试"
+  }, {
+    "name" : "story",
+    "value" : "钓鱼人APP自动化测试反向用例测试"
+  }, {
+    "name" : "epic",
+    "value" : "钓鱼人APP自动化测试"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('prepare_to_login')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIG6MR7"
+  }, {
+    "name" : "thread",
+    "value" : "17644-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b92ebc896462aefd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622204520227,
+        "stop" : 1622204523063,
+        "duration" : 2836
+      }
+    }, {
+      "uid" : "a2faf18c7c1d3e62",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <bound method BasePage.is_toast_show of <pages.page_action.PageAction object at 0x000002AE067094A8>>('登录验证失败，用户名不存在')\n +    where <bound method BasePage.is_toast_show of <pages.page_action.PageAction object at 0x000002AE067094A8>> = <pages.page_action.PageAction object at 0x000002AE067094A8>.is_toast_show",
+      "time" : {
+        "start" : 1622204315586,
+        "stop" : 1622204338611,
+        "duration" : 23025
+      }
+    }, {
+      "uid" : "60b0a338ae32e07a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <bound method BasePage.is_toast_show of <pages.page_action.PageAction object at 0x000001245FCF24A8>>('登录验证失败，用户名不存在')\n +    where <bound method BasePage.is_toast_show of <pages.page_action.PageAction object at 0x000001245FCF24A8>> = <pages.page_action.PageAction object at 0x000001245FCF24A8>.is_toast_show",
+      "time" : {
+        "start" : 1622204189472,
+        "stop" : 1622204211779,
+        "duration" : 22307
+      }
+    }, {
+      "uid" : "aab9e294db964d47",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'error'",
+      "time" : {
+        "start" : 1622204095344,
+        "stop" : 1622204097377,
+        "duration" : 2033
+      }
+    }, {
+      "uid" : "9a1cd6a338974537",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'error'",
+      "time" : {
+        "start" : 1622204002255,
+        "stop" : 1622204004287,
+        "duration" : 2032
+      }
+    }, {
+      "uid" : "95fc55314169919a",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'error'",
+      "time" : {
+        "start" : 1622203912118,
+        "stop" : 1622203914176,
+        "duration" : 2058
+      }
+    }, {
+      "uid" : "7eda230c4e871c7",
+      "status" : "broken",
+      "statusDetails" : "TypeError: is_toast_show() missing 1 required positional argument: 'msg'",
+      "time" : {
+        "start" : 1622203798304,
+        "stop" : 1622203800917,
+        "duration" : 2613
+      }
+    }, {
+      "uid" : "c79b2347a5f55ff9",
+      "status" : "broken",
+      "statusDetails" : "TypeError: is_toast_show() missing 1 required positional argument: 'msg'",
+      "time" : {
+        "start" : 1622203667445,
+        "stop" : 1622203670012,
+        "duration" : 2567
+      }
+    }, {
+      "uid" : "ac9c81aa25595fe2",
+      "status" : "broken",
+      "statusDetails" : "TypeError: is_toast_show() missing 1 required positional argument: 'msg'",
+      "time" : {
+        "start" : 1622203500982,
+        "stop" : 1622203503549,
+        "duration" : 2567
+      }
+    }, {
+      "uid" : "eb5482d0894391e8",
+      "status" : "broken",
+      "statusDetails" : "TypeError: is_toast_show() missing 1 required positional argument: 'msg'",
+      "time" : {
+        "start" : 1622203115261,
+        "stop" : 1622203117861,
+        "duration" : 2600
+      }
+    }, {
+      "uid" : "4df643b8432d9a36",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1622202990249,
+        "stop" : 1622202990285,
+        "duration" : 36
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('prepare_to_login')" ]
+  },
+  "source" : "4460fd8b0543719b.json",
+  "parameterValues" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+}

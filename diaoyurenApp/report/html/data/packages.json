@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "cases.test_login",
+    "children" : [ {
+      "name" : "登录测试反向用例",
+      "uid" : "d3194c025d2e93f3",
+      "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622204573269,
+        "stop" : 1622204576132,
+        "duration" : 2863
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+    }, {
+      "name" : "登录测试反向用例",
+      "uid" : "4460fd8b0543719b",
+      "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622204576216,
+        "stop" : 1622204579040,
+        "duration" : 2824
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+    }, {
+      "name" : "登录测试反向用例",
+      "uid" : "849a3eeb836586bf",
+      "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622204579044,
+        "stop" : 1622204582250,
+        "duration" : 3206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+    }, {
+      "name" : "登录测试反向用例",
+      "uid" : "8067c8149b6bd29e",
+      "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622204582255,
+        "stop" : 1622204585096,
+        "duration" : 2841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+    }, {
+      "name" : "登录测试正向用例",
+      "uid" : "5a039785127ba7f5",
+      "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622204585101,
+        "stop" : 1622204590207,
+        "duration" : 5106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cases.test_login"
+  } ]
+}

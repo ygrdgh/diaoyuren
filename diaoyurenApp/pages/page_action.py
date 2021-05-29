@@ -40,7 +40,7 @@ class PageAction(BasePage):
             self.click_element(SettingPage.logout_btn_loc)
             self.sleep(2)
             self.click_element(SettingPage.logout_confirm_loc)
-            self.sleep(3)
+            self.sleep(2)
             logger.info('退出登录成功')
         except Exception as e:
             logger.warning('退出登陆失败')
@@ -51,6 +51,7 @@ class PageAction(BasePage):
             self.go_to_me_page()
             if self.is_use_login():
                 self.logout()
+                self.go_to_login_page()
             else:
                 self.click_element(MinePageLocator.click_login_text_loc)
                 self.sleep(2)

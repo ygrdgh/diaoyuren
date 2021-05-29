@@ -1,0 +1,26 @@
+INFO     root:get_log.py:28 开始执行反向测试用例：反向用例-用户名错误-密码正确
+INFO     root:get_log.py:28 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+INFO     root:get_log.py:28 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element {"using": "id", "value": "com.lchr.diaoyu:id/user_id"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element/df7a4e42-6157-4335-9c7e-d54e2b2e40da/value {"text": "plkjf\u624d\u6709", "value": ["p", "l", "k", "j", "f", "\u624d", "\u6709"], "id": "df7a4e42-6157-4335-9c7e-d54e2b2e40da"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element/df7a4e42-6157-4335-9c7e-d54e2b2e40da/value HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:get_log.py:28 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+INFO     root:get_log.py:28 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element {"using": "id", "value": "com.lchr.diaoyu:id/passwd_id"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element/12cf1a95-362f-4d0a-8b02-4a49afd15d80/value {"text": "ipmnlfiof", "value": ["i", "p", "m", "n", "l", "f", "i", "o", "f"], "id": "12cf1a95-362f-4d0a-8b02-4a49afd15d80"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element/12cf1a95-362f-4d0a-8b02-4a49afd15d80/value HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:get_log.py:28 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+INFO     root:get_log.py:28 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element {"using": "id", "value": "com.lchr.diaoyu:id/btn_login"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element/9c9a0cd5-90cd-449e-8f1d-ac26f013f8aa/click {"id": "9c9a0cd5-90cd-449e-8f1d-ac26f013f8aa"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/06356ee7-3934-4212-97e2-40d3008ad096/element/9c9a0cd5-90cd-449e-8f1d-ac26f013f8aa/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:get_log.py:28 反向用例输入完成

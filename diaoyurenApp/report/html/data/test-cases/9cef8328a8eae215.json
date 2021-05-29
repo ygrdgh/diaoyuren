@@ -1,0 +1,134 @@
+{
+  "uid" : "9cef8328a8eae215",
+  "name" : "登录测试反向用例",
+  "fullName" : "cases.test_login.TestLogin#test_login_failed",
+  "historyId" : "28fbee3f7849e5c692210a9f12e7fe96",
+  "time" : {
+    "start" : 1622203500982,
+    "stop" : 1622203503549,
+    "duration" : 2567
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: is_toast_show() missing 1 required positional argument: 'msg'",
+  "statusTrace" : "self = <cases.test_login.TestLogin object at 0x0000021A1E6C5518>\nhandler = (<appium.webdriver.webdriver.WebDriver (session=\"c4d190fa-71fd-4220-a01e-5ff3f9f70251\")>, <pages.page_action.PageAction object at 0x0000021A1E6C9B38>)\ndata = {'error_msg': '登录验证失败，用户名不存在', 'name': '反向用例-用户名错误-密码正确', 'password': 'ipmnlfiof', 'username': 'plkjf才有'}\n\n    @allure.story('钓鱼人APP自动化测试反向用例测试')\n    @allure.title('登录测试反向用例')\n    @pytest.mark.parametrize('data', failed_data)\n    def test_login_failed(self, handler, data):\n        logger.info('开始执行反向测试用例：{}'.format(data['name']))\n        handler[1].login(data['username'], data['password'])\n        logger.info('登录操作完成')\n        time.sleep(1)\n>       assert handler[1].is_toast_show()\nE       TypeError: is_toast_show() missing 1 required positional argument: 'msg'\n\ncases\\test_login.py:49: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "handler",
+    "time" : {
+      "start" : 1622203471022,
+      "stop" : 1622203490495,
+      "duration" : 19473
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "prepare_to_login",
+    "time" : {
+      "start" : 1622203490495,
+      "stop" : 1622203497825,
+      "duration" : 7330
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: is_toast_show() missing 1 required positional argument: 'msg'",
+    "statusTrace" : "self = <cases.test_login.TestLogin object at 0x0000021A1E6C5518>\nhandler = (<appium.webdriver.webdriver.WebDriver (session=\"c4d190fa-71fd-4220-a01e-5ff3f9f70251\")>, <pages.page_action.PageAction object at 0x0000021A1E6C9B38>)\ndata = {'error_msg': '登录验证失败，用户名不存在', 'name': '反向用例-用户名错误-密码正确', 'password': 'ipmnlfiof', 'username': 'plkjf才有'}\n\n    @allure.story('钓鱼人APP自动化测试反向用例测试')\n    @allure.title('登录测试反向用例')\n    @pytest.mark.parametrize('data', failed_data)\n    def test_login_failed(self, handler, data):\n        logger.info('开始执行反向测试用例：{}'.format(data['name']))\n        handler[1].login(data['username'], data['password'])\n        logger.info('登录操作完成')\n        time.sleep(1)\n>       assert handler[1].is_toast_show()\nE       TypeError: is_toast_show() missing 1 required positional argument: 'msg'\n\ncases\\test_login.py:49: TypeError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1789e3c3f800af49",
+      "name" : "log",
+      "source" : "1789e3c3f800af49.txt",
+      "type" : "text/plain",
+      "size" : 4006
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "handler::0",
+    "time" : {
+      "start" : 1622203508718,
+      "stop" : 1622203509199,
+      "duration" : 481
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "钓鱼人APP自动化测试-登陆功能测试"
+  }, {
+    "name" : "epic",
+    "value" : "钓鱼人APP自动化测试"
+  }, {
+    "name" : "story",
+    "value" : "钓鱼人APP自动化测试反向用例测试"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('prepare_to_login')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIG6MR7"
+  }, {
+    "name" : "thread",
+    "value" : "14372-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('prepare_to_login')" ]
+  },
+  "source" : "9cef8328a8eae215.json",
+  "parameterValues" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+}

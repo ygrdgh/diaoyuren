@@ -4,10 +4,755 @@
   "children" : [ {
     "name" : "DESKTOP-CIG6MR7",
     "children" : [ {
+      "name" : "17644-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "3033d9644dff51cc",
+        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204582255,
+          "stop" : 1622204585096,
+          "duration" : 2841
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "51a1cfd4ec7a81b5",
+        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204576216,
+          "stop" : 1622204579040,
+          "duration" : 2824
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "25b7deddd1088924",
+        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204579044,
+          "stop" : 1622204582250,
+          "duration" : 3206
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "b763d9b34b2b5e28",
+        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204573269,
+          "stop" : 1622204576132,
+          "duration" : 2863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "c7327a274a4120ef",
+        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204585101,
+          "stop" : 1622204590207,
+          "duration" : 5106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a6f89a2291478a7ed6eeab3ffee93faf"
+    }, {
+      "name" : "15372-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "e1ece58400630276",
+        "parentUid" : "f5b6a45f3d3cde31d4064b3c214f8b57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622193186169,
+          "stop" : 1622193186169,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f5b6a45f3d3cde31d4064b3c214f8b57"
+    }, {
+      "name" : "15140-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "e9e9266062ae9ff6",
+        "parentUid" : "925e4adc621c7bb253d6495e1d37e3d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305623032,
+          "stop" : 1622305623068,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "1c9ba000ca4a6148",
+        "parentUid" : "925e4adc621c7bb253d6495e1d37e3d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305622867,
+          "stop" : 1622305622905,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "94a9490e54dfda87",
+        "parentUid" : "925e4adc621c7bb253d6495e1d37e3d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305623104,
+          "stop" : 1622305623138,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "1cf6e005080be45b",
+        "parentUid" : "925e4adc621c7bb253d6495e1d37e3d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305622947,
+          "stop" : 1622305622992,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "e0a5fecf8f735138",
+        "parentUid" : "925e4adc621c7bb253d6495e1d37e3d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305622740,
+          "stop" : 1622305622783,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      } ],
+      "uid" : "925e4adc621c7bb253d6495e1d37e3d1"
+    }, {
+      "name" : "9564-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "257bc978eee42339",
+        "parentUid" : "8656e92ad3ff95782abc1411e2dc1cf1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622195157842,
+          "stop" : 1622195157881,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8656e92ad3ff95782abc1411e2dc1cf1"
+    }, {
+      "name" : "956-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "83a50698b16f2e9d",
+        "parentUid" : "7bb4695d443f539dd66c36821642df49",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622193465258,
+          "stop" : 1622193465258,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7bb4695d443f539dd66c36821642df49"
+    }, {
+      "name" : "19368-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "59c1d55f8874947e",
+        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204214247,
+          "stop" : 1622204217049,
+          "duration" : 2802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "e17d29b403c9489a",
+        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204187526,
+          "stop" : 1622204189432,
+          "duration" : 1906
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "52d96cfe37502ee3",
+        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204211857,
+          "stop" : 1622204214243,
+          "duration" : 2386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "8db65f00a42ff833",
+        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622204189472,
+          "stop" : 1622204211779,
+          "duration" : 22307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      } ],
+      "uid" : "186a92f2004addcc0be0b34cd464a7db"
+    }, {
+      "name" : "18040-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "f08f586143d62595",
+        "parentUid" : "5754c19b6cd754eae8ccf93ec7b5f524",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306944100,
+          "stop" : 1622306946967,
+          "duration" : 2867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "5024df492dbcd6ad",
+        "parentUid" : "5754c19b6cd754eae8ccf93ec7b5f524",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306949821,
+          "stop" : 1622306952635,
+          "duration" : 2814
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "4621cbca0ab88568",
+        "parentUid" : "5754c19b6cd754eae8ccf93ec7b5f524",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306955476,
+          "stop" : 1622306960408,
+          "duration" : 4932
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "3242148a670906c8",
+        "parentUid" : "5754c19b6cd754eae8ccf93ec7b5f524",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306952639,
+          "stop" : 1622306955456,
+          "duration" : 2817
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "54365185533a8a73",
+        "parentUid" : "5754c19b6cd754eae8ccf93ec7b5f524",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306947012,
+          "stop" : 1622306949816,
+          "duration" : 2804
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      } ],
+      "uid" : "5754c19b6cd754eae8ccf93ec7b5f524"
+    }, {
+      "name" : "18512-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "13b7e44b1bc0c529",
+        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203794703,
+          "stop" : 1622203798231,
+          "duration" : 3528
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "dc72b74734dd525b",
+        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203800926,
+          "stop" : 1622203803497,
+          "duration" : 2571
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "c2d80be4c6b0b882",
+        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203798304,
+          "stop" : 1622203800917,
+          "duration" : 2613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "80d856e7a639d863",
+        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203803548,
+          "stop" : 1622203806114,
+          "duration" : 2566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      } ],
+      "uid" : "e43f009453ba9c2d4d56471c051b45b3"
+    }, {
+      "name" : "4772-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "59160a3d1f15dae9",
+        "parentUid" : "13a07a2cdf7a5854860cc327dbb206b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622305575466,
+          "stop" : 1622305578342,
+          "duration" : 2876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "1ed32d07ec42fb1f",
+        "parentUid" : "13a07a2cdf7a5854860cc327dbb206b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622305578345,
+          "stop" : 1622305581211,
+          "duration" : 2866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "e26174d64de5d12e",
+        "parentUid" : "13a07a2cdf7a5854860cc327dbb206b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622305572602,
+          "stop" : 1622305575446,
+          "duration" : 2844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "a14c3c9f065bd57e",
+        "parentUid" : "13a07a2cdf7a5854860cc327dbb206b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622305569698,
+          "stop" : 1622305572597,
+          "duration" : 2899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "71e19fcebaa186b0",
+        "parentUid" : "13a07a2cdf7a5854860cc327dbb206b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622305581216,
+          "stop" : 1622305586368,
+          "duration" : 5152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13a07a2cdf7a5854860cc327dbb206b2"
+    }, {
+      "name" : "10376-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "669db78c38d1919",
+        "parentUid" : "c28613e906b344a65182759be998d194",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203912118,
+          "stop" : 1622203914176,
+          "duration" : 2058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "e04db089f85b318d",
+        "parentUid" : "c28613e906b344a65182759be998d194",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203914188,
+          "stop" : 1622203916324,
+          "duration" : 2136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "47f22310b3893383",
+        "parentUid" : "c28613e906b344a65182759be998d194",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203910306,
+          "stop" : 1622203912077,
+          "duration" : 1771
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "3baed3b71ffec8e9",
+        "parentUid" : "c28613e906b344a65182759be998d194",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203916330,
+          "stop" : 1622203918372,
+          "duration" : 2042
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      } ],
+      "uid" : "c28613e906b344a65182759be998d194"
+    }, {
+      "name" : "10360-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "b5e8299927b216c3",
+        "parentUid" : "ad04966625bec445cf9663704e900bf8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305418002,
+          "stop" : 1622305418047,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "4cb715cff21325a5",
+        "parentUid" : "ad04966625bec445cf9663704e900bf8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305417730,
+          "stop" : 1622305417769,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "230c16ff9b88a285",
+        "parentUid" : "ad04966625bec445cf9663704e900bf8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305418190,
+          "stop" : 1622305418237,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "ebad0016517870dc",
+        "parentUid" : "ad04966625bec445cf9663704e900bf8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305418090,
+          "stop" : 1622305418132,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "bd376ef33a5f2b87",
+        "parentUid" : "ad04966625bec445cf9663704e900bf8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622305417922,
+          "stop" : 1622305417961,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      } ],
+      "uid" : "ad04966625bec445cf9663704e900bf8"
+    }, {
+      "name" : "9752-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "aa409568def45340",
+        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204523071,
+          "stop" : 1622204525904,
+          "duration" : 2833
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "5dac6f18e45ee0ca",
+        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204525909,
+          "stop" : 1622204528759,
+          "duration" : 2850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "9f0cc897d1cf4a05",
+        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204520227,
+          "stop" : 1622204523063,
+          "duration" : 2836
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "e2d3165c226a006e",
+        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204516946,
+          "stop" : 1622204520194,
+          "duration" : 3248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      } ],
+      "uid" : "6f0d0230cee4bc8e6ff15a439200a634"
+    }, {
+      "name" : "13708-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "6e9be87768d43cdb",
+        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622204095344,
+          "stop" : 1622204097377,
+          "duration" : 2033
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "f7a7b67b841e905a",
+        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622204097428,
+          "stop" : 1622204099908,
+          "duration" : 2480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "21a723f631b7b406",
+        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622204099918,
+          "stop" : 1622204101982,
+          "duration" : 2064
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "b8153d6465a486a9",
+        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622204093723,
+          "stop" : 1622204095296,
+          "duration" : 1573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      } ],
+      "uid" : "4801a82ebe4e28fa7351a67342493231"
+    }, {
+      "name" : "15944-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "22d3895eb16b784b",
+        "parentUid" : "cb28ec62549e983ece7474174dd85523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306064227,
+          "stop" : 1622306067020,
+          "duration" : 2793
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "a61760d21f25e792",
+        "parentUid" : "cb28ec62549e983ece7474174dd85523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306067024,
+          "stop" : 1622306069830,
+          "duration" : 2806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "731b46a2daeaaffd",
+        "parentUid" : "cb28ec62549e983ece7474174dd85523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306058574,
+          "stop" : 1622306061372,
+          "duration" : 2798
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "75254fdcd2195d3d",
+        "parentUid" : "cb28ec62549e983ece7474174dd85523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306069834,
+          "stop" : 1622306074710,
+          "duration" : 4876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "22c32c2221123f8f",
+        "parentUid" : "cb28ec62549e983ece7474174dd85523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306061418,
+          "stop" : 1622306064222,
+          "duration" : 2804
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      } ],
+      "uid" : "cb28ec62549e983ece7474174dd85523"
+    }, {
       "name" : "15724-MainThread",
       "children" : [ {
         "name" : "登录测试正向用例",
-        "uid" : "3c18f3c516fe239c",
+        "uid" : "9126634786dd8667",
         "parentUid" : "466ad49a545728f0b0da982d9b9d259d",
         "status" : "broken",
         "time" : {
@@ -21,122 +766,367 @@
       } ],
       "uid" : "466ad49a545728f0b0da982d9b9d259d"
     }, {
-      "name" : "9752-MainThread",
+      "name" : "10336-MainThread",
       "children" : [ {
         "name" : "登录测试反向用例",
-        "uid" : "f21953c34ba6a708",
-        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
-        "status" : "passed",
+        "uid" : "c4fa0ed8b60e5e98",
+        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
+        "status" : "broken",
         "time" : {
-          "start" : 1622204525909,
-          "stop" : 1622204528759,
-          "duration" : 2850
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "5df7ae4c4063f358",
-        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204516946,
-          "stop" : 1622204520194,
-          "duration" : 3248
+          "start" : 1622204000627,
+          "stop" : 1622204002212,
+          "duration" : 1585
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
       }, {
         "name" : "登录测试反向用例",
-        "uid" : "b92ebc896462aefd",
-        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
-        "status" : "passed",
+        "uid" : "9ee7cddf94439e4a",
+        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
+        "status" : "broken",
         "time" : {
-          "start" : 1622204520227,
-          "stop" : 1622204523063,
-          "duration" : 2836
+          "start" : 1622204006545,
+          "stop" : 1622204008579,
+          "duration" : 2034
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "df4dbe8346f70d07",
+        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622204004298,
+          "stop" : 1622204006496,
+          "duration" : 2198
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "4d4acb80ff21f8c7",
+        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622204002255,
+          "stop" : 1622204004287,
+          "duration" : 2032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      } ],
+      "uid" : "1e6ea51871d80df48ecec42989b4e151"
+    }, {
+      "name" : "18308-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "7b29b474cb9f13bb",
+        "parentUid" : "98b0dd403ff3c83920968a3a98993d1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622306111918,
+          "stop" : 1622306111950,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "b4be33dae8b0b108",
+        "parentUid" : "98b0dd403ff3c83920968a3a98993d1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622306111987,
+          "stop" : 1622306112015,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "153fd55b90f62ddc",
+        "parentUid" : "98b0dd403ff3c83920968a3a98993d1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622306111596,
+          "stop" : 1622306111627,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "f878d06ac5af15f2",
+        "parentUid" : "98b0dd403ff3c83920968a3a98993d1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622306111746,
+          "stop" : 1622306111782,
+          "duration" : 36
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
       }, {
         "name" : "登录测试反向用例",
-        "uid" : "3bf3f2d9fe0d8de4",
-        "parentUid" : "6f0d0230cee4bc8e6ff15a439200a634",
-        "status" : "passed",
+        "uid" : "527aaa6855200f1f",
+        "parentUid" : "98b0dd403ff3c83920968a3a98993d1c",
+        "status" : "broken",
         "time" : {
-          "start" : 1622204523071,
-          "stop" : 1622204525904,
-          "duration" : 2833
+          "start" : 1622306111823,
+          "stop" : 1622306111866,
+          "duration" : 43
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
       } ],
-      "uid" : "6f0d0230cee4bc8e6ff15a439200a634"
+      "uid" : "98b0dd403ff3c83920968a3a98993d1c"
     }, {
-      "name" : "11680-MainThread",
+      "name" : "14372-MainThread",
       "children" : [ {
         "name" : "登录测试反向用例",
-        "uid" : "a2faf18c7c1d3e62",
-        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
-        "status" : "failed",
+        "uid" : "84496bfc8e37356a",
+        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
+        "status" : "broken",
         "time" : {
-          "start" : 1622204315586,
-          "stop" : 1622204338611,
-          "duration" : 23025
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "93848bb5f552ac45",
-        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204312659,
-          "stop" : 1622204315581,
-          "duration" : 2922
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "a9a06f85fa994b42",
-        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204342239,
-          "stop" : 1622204345088,
-          "duration" : 2849
+          "start" : 1622203506140,
+          "stop" : 1622203508713,
+          "duration" : 2573
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
       }, {
         "name" : "登录测试反向用例",
-        "uid" : "52478f4cbfb587fb",
-        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
-        "status" : "passed",
+        "uid" : "912bf39ad23a61e4",
+        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
+        "status" : "broken",
         "time" : {
-          "start" : 1622204338646,
-          "stop" : 1622204342232,
-          "duration" : 3586
+          "start" : 1622203497826,
+          "stop" : 1622203500912,
+          "duration" : 3086
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "b732a47cca84e8e9",
+        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203503557,
+          "stop" : 1622203506129,
+          "duration" : 2572
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "9cef8328a8eae215",
+        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203500982,
+          "stop" : 1622203503549,
+          "duration" : 2567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
       } ],
-      "uid" : "34a1ff3de6a2c2cc573343b62ade30a1"
+      "uid" : "3e23688dc750052593c44ba8ee1e8a78"
+    }, {
+      "name" : "19072-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "7b762a6cf9cedd9e",
+        "parentUid" : "78a90b6c9cb3b98c75536f10637ef430",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622196260113,
+          "stop" : 1622196265038,
+          "duration" : 4925
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "78a90b6c9cb3b98c75536f10637ef430"
+    }, {
+      "name" : "19160-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "9533a42b89b4db0b",
+        "parentUid" : "7ef2a7809c5b9aea4db13571a9f00293",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622198382530,
+          "stop" : 1622198387421,
+          "duration" : 4891
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ef2a7809c5b9aea4db13571a9f00293"
+    }, {
+      "name" : "13680-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "27ca902ba61ea9c1",
+        "parentUid" : "e2d16aa8e04347690b492a989745b983",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203115261,
+          "stop" : 1622203117861,
+          "duration" : 2600
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "4b3e8fc53534728c",
+        "parentUid" : "e2d16aa8e04347690b492a989745b983",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203117869,
+          "stop" : 1622203120445,
+          "duration" : 2576
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "5919d7913a7cb327",
+        "parentUid" : "e2d16aa8e04347690b492a989745b983",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203112604,
+          "stop" : 1622203115184,
+          "duration" : 2580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "3c3de1b6eb6e5687",
+        "parentUid" : "e2d16aa8e04347690b492a989745b983",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622203120453,
+          "stop" : 1622203123034,
+          "duration" : 2581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      } ],
+      "uid" : "e2d16aa8e04347690b492a989745b983"
+    }, {
+      "name" : "556-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "52fa04f7134cd74f",
+        "parentUid" : "6f38f5e6105a346a8944d86216d5707b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622194796811,
+          "stop" : 1622194796847,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f38f5e6105a346a8944d86216d5707b"
+    }, {
+      "name" : "18200-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "410a07f91288621a",
+        "parentUid" : "ce2e2a45e452fb39aae49d88fd6b98fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306892346,
+          "stop" : 1622306895172,
+          "duration" : 2826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "325b463baf9fea2e",
+        "parentUid" : "ce2e2a45e452fb39aae49d88fd6b98fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306889528,
+          "stop" : 1622306892341,
+          "duration" : 2813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "4514175d5ac76230",
+        "parentUid" : "ce2e2a45e452fb39aae49d88fd6b98fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306895177,
+          "stop" : 1622306897969,
+          "duration" : 2792
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试正向用例",
+        "uid" : "3d03e2f93b6720a2",
+        "parentUid" : "ce2e2a45e452fb39aae49d88fd6b98fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306897974,
+          "stop" : 1622306902870,
+          "duration" : 4896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "86ef8b93cda34c16",
+        "parentUid" : "ce2e2a45e452fb39aae49d88fd6b98fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622306886649,
+          "stop" : 1622306889479,
+          "duration" : 2830
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      } ],
+      "uid" : "ce2e2a45e452fb39aae49d88fd6b98fc"
     }, {
       "name" : "14604-MainThread",
       "children" : [ {
         "name" : "登录测试正向用例",
-        "uid" : "ad9ffd802d652ac4",
+        "uid" : "2b28bdd40fe78e63",
         "parentUid" : "21628921982e04bce9dcc50e70083d1b",
         "status" : "broken",
         "time" : {
@@ -153,33 +1143,7 @@
       "name" : "9572-MainThread",
       "children" : [ {
         "name" : "登录测试反向用例",
-        "uid" : "4df643b8432d9a36",
-        "parentUid" : "ea05626d811c8479890043a7504c9376",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622202990249,
-          "stop" : 1622202990285,
-          "duration" : 36
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "35e962bd397e0974",
-        "parentUid" : "ea05626d811c8479890043a7504c9376",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622202990426,
-          "stop" : 1622202990460,
-          "duration" : 34
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "6207fdefbd56b0a1",
+        "uid" : "353a8afb3891e88f",
         "parentUid" : "ea05626d811c8479890043a7504c9376",
         "status" : "broken",
         "time" : {
@@ -192,7 +1156,7 @@
         "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
       }, {
         "name" : "登录测试反向用例",
-        "uid" : "c9a85cce9e5b77e2",
+        "uid" : "b1b42d66a9fd6155",
         "parentUid" : "ea05626d811c8479890043a7504c9376",
         "status" : "broken",
         "time" : {
@@ -203,576 +1167,39 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      } ],
-      "uid" : "ea05626d811c8479890043a7504c9376"
-    }, {
-      "name" : "7000-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "7277ab4adde9b7f9",
-        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203670095,
-          "stop" : 1622203672662,
-          "duration" : 2567
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
       }, {
         "name" : "登录测试反向用例",
-        "uid" : "a34af9241313e7e6",
-        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
+        "uid" : "fb816f303f905f1d",
+        "parentUid" : "ea05626d811c8479890043a7504c9376",
         "status" : "broken",
         "time" : {
-          "start" : 1622203672670,
-          "stop" : 1622203675247,
-          "duration" : 2577
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "c79b2347a5f55ff9",
-        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203667445,
-          "stop" : 1622203670012,
-          "duration" : 2567
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "4904cc359913b700",
-        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203664835,
-          "stop" : 1622203667408,
-          "duration" : 2573
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      } ],
-      "uid" : "0d8a3c4c62eae9ac6575d809b56b9e11"
-    }, {
-      "name" : "10376-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "1b5c41f097c917a2",
-        "parentUid" : "c28613e906b344a65182759be998d194",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203910306,
-          "stop" : 1622203912077,
-          "duration" : 1771
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "e94f8b60b1f18fac",
-        "parentUid" : "c28613e906b344a65182759be998d194",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203916330,
-          "stop" : 1622203918372,
-          "duration" : 2042
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "95fc55314169919a",
-        "parentUid" : "c28613e906b344a65182759be998d194",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203912118,
-          "stop" : 1622203914176,
-          "duration" : 2058
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "5661675a71862c21",
-        "parentUid" : "c28613e906b344a65182759be998d194",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203914188,
-          "stop" : 1622203916324,
-          "duration" : 2136
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      } ],
-      "uid" : "c28613e906b344a65182759be998d194"
-    }, {
-      "name" : "19368-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "521680b34a5b69af",
-        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204211857,
-          "stop" : 1622204214243,
-          "duration" : 2386
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "f1e5f1a0300d06ba",
-        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204214247,
-          "stop" : 1622204217049,
-          "duration" : 2802
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "60b0a338ae32e07a",
-        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
-        "status" : "failed",
-        "time" : {
-          "start" : 1622204189472,
-          "stop" : 1622204211779,
-          "duration" : 22307
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "cc562b907fc7444e",
-        "parentUid" : "186a92f2004addcc0be0b34cd464a7db",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204187526,
-          "stop" : 1622204189432,
-          "duration" : 1906
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      } ],
-      "uid" : "186a92f2004addcc0be0b34cd464a7db"
-    }, {
-      "name" : "15780-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "326cd74231e1bc4d",
-        "parentUid" : "126672065f4ea30929a0ed43519505d7",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622195513987,
-          "stop" : 1622195514025,
-          "duration" : 38
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "126672065f4ea30929a0ed43519505d7"
-    }, {
-      "name" : "13708-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "234bfd1c74ca16a5",
-        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204097428,
-          "stop" : 1622204099908,
-          "duration" : 2480
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "5aa5091de37b976",
-        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204093723,
-          "stop" : 1622204095296,
-          "duration" : 1573
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "5980bd03d9f33bea",
-        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204099918,
-          "stop" : 1622204101982,
-          "duration" : 2064
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "aab9e294db964d47",
-        "parentUid" : "4801a82ebe4e28fa7351a67342493231",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204095344,
-          "stop" : 1622204097377,
-          "duration" : 2033
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      } ],
-      "uid" : "4801a82ebe4e28fa7351a67342493231"
-    }, {
-      "name" : "17644-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "849a3eeb836586bf",
-        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204579044,
-          "stop" : 1622204582250,
-          "duration" : 3206
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      }, {
-        "name" : "登录测试正向用例",
-        "uid" : "5a039785127ba7f5",
-        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204585101,
-          "stop" : 1622204590207,
-          "duration" : 5106
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "8067c8149b6bd29e",
-        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204582255,
-          "stop" : 1622204585096,
-          "duration" : 2841
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "4460fd8b0543719b",
-        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204576216,
-          "stop" : 1622204579040,
-          "duration" : 2824
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "d3194c025d2e93f3",
-        "parentUid" : "a6f89a2291478a7ed6eeab3ffee93faf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622204573269,
-          "stop" : 1622204576132,
-          "duration" : 2863
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      } ],
-      "uid" : "a6f89a2291478a7ed6eeab3ffee93faf"
-    }, {
-      "name" : "10336-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "9a1cd6a338974537",
-        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204002255,
-          "stop" : 1622204004287,
-          "duration" : 2032
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "d1203ec08b0f17ab",
-        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204006545,
-          "stop" : 1622204008579,
-          "duration" : 2034
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "3a7f22faef6882d7",
-        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204000627,
-          "stop" : 1622204002212,
-          "duration" : 1585
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "ccca988fa462c3d6",
-        "parentUid" : "1e6ea51871d80df48ecec42989b4e151",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622204004298,
-          "stop" : 1622204006496,
-          "duration" : 2198
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      } ],
-      "uid" : "1e6ea51871d80df48ecec42989b4e151"
-    }, {
-      "name" : "13680-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "c486baf0496d03a8",
-        "parentUid" : "e2d16aa8e04347690b492a989745b983",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203112604,
-          "stop" : 1622203115184,
-          "duration" : 2580
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "eb5482d0894391e8",
-        "parentUid" : "e2d16aa8e04347690b492a989745b983",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203115261,
-          "stop" : 1622203117861,
-          "duration" : 2600
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "eb311f0640250d31",
-        "parentUid" : "e2d16aa8e04347690b492a989745b983",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203117869,
-          "stop" : 1622203120445,
-          "duration" : 2576
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "c7efa8a59c6a8ef3",
-        "parentUid" : "e2d16aa8e04347690b492a989745b983",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203120453,
-          "stop" : 1622203123034,
-          "duration" : 2581
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      } ],
-      "uid" : "e2d16aa8e04347690b492a989745b983"
-    }, {
-      "name" : "17352-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "a5c1adce9fb8b198",
-        "parentUid" : "8266046456349cf5bafb22788f19f89f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1622194382736,
-          "stop" : 1622194387311,
-          "duration" : 4575
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "8266046456349cf5bafb22788f19f89f"
-    }, {
-      "name" : "18512-MainThread",
-      "children" : [ {
-        "name" : "登录测试反向用例",
-        "uid" : "7eda230c4e871c7",
-        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203798304,
-          "stop" : 1622203800917,
-          "duration" : 2613
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "fb049c6b14a55b4e",
-        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203794703,
-          "stop" : 1622203798231,
-          "duration" : 3528
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "b60f5158393d5939",
-        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203803548,
-          "stop" : 1622203806114,
-          "duration" : 2566
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "6b18a5e537636ba7",
-        "parentUid" : "e43f009453ba9c2d4d56471c051b45b3",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203800926,
-          "stop" : 1622203803497,
-          "duration" : 2571
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      } ],
-      "uid" : "e43f009453ba9c2d4d56471c051b45b3"
-    }, {
-      "name" : "556-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "e4ee045dd89963d6",
-        "parentUid" : "6f38f5e6105a346a8944d86216d5707b",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622194796811,
-          "stop" : 1622194796847,
+          "start" : 1622202990249,
+          "stop" : 1622202990285,
           "duration" : 36
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "6f38f5e6105a346a8944d86216d5707b"
-    }, {
-      "name" : "15468-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "6bc5040c0e121026",
-        "parentUid" : "aae0ebf043dbdc5c64629fa1ca2f1739",
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "4f060c4c26b73d2",
+        "parentUid" : "ea05626d811c8479890043a7504c9376",
         "status" : "broken",
         "time" : {
-          "start" : 1622193148469,
-          "stop" : 1622193148470,
-          "duration" : 1
+          "start" : 1622202990426,
+          "stop" : 1622202990460,
+          "duration" : 34
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ ]
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
       } ],
-      "uid" : "aae0ebf043dbdc5c64629fa1ca2f1739"
-    }, {
-      "name" : "12292-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "116e14d508dfb88c",
-        "parentUid" : "34ef39a05c986dd3b9dd7fba2a767b94",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622197060007,
-          "stop" : 1622197060046,
-          "duration" : 39
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "34ef39a05c986dd3b9dd7fba2a767b94"
-    }, {
-      "name" : "9564-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "4bb6b0c116f98e69",
-        "parentUid" : "8656e92ad3ff95782abc1411e2dc1cf1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622195157842,
-          "stop" : 1622195157881,
-          "duration" : 39
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "8656e92ad3ff95782abc1411e2dc1cf1"
+      "uid" : "ea05626d811c8479890043a7504c9376"
     }, {
       "name" : "16212-MainThread",
       "children" : [ {
         "name" : "登录测试正向用例",
-        "uid" : "c303328efe37536e",
+        "uid" : "66207a6dddfb8be3",
         "parentUid" : "28df04f54bdd4088aae3c9194d21731a",
         "status" : "broken",
         "time" : {
@@ -786,28 +1213,28 @@
       } ],
       "uid" : "28df04f54bdd4088aae3c9194d21731a"
     }, {
-      "name" : "14372-MainThread",
+      "name" : "7000-MainThread",
       "children" : [ {
         "name" : "登录测试反向用例",
-        "uid" : "79a4535562b1c7fb",
-        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
+        "uid" : "e6b65490f5c863a6",
+        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
         "status" : "broken",
         "time" : {
-          "start" : 1622203506140,
-          "stop" : 1622203508713,
-          "duration" : 2573
+          "start" : 1622203672670,
+          "stop" : 1622203675247,
+          "duration" : 2577
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
       }, {
         "name" : "登录测试反向用例",
-        "uid" : "ac9c81aa25595fe2",
-        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
+        "uid" : "682f9951c3699b25",
+        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
         "status" : "broken",
         "time" : {
-          "start" : 1622203500982,
-          "stop" : 1622203503549,
+          "start" : 1622203667445,
+          "stop" : 1622203670012,
           "duration" : 2567
         },
         "flaky" : false,
@@ -815,71 +1242,110 @@
         "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
       }, {
         "name" : "登录测试反向用例",
-        "uid" : "c7d07b3d1b916894",
-        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
+        "uid" : "a36a82b2caf7c920",
+        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
         "status" : "broken",
         "time" : {
-          "start" : 1622203497826,
-          "stop" : 1622203500912,
-          "duration" : 3086
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
-      }, {
-        "name" : "登录测试反向用例",
-        "uid" : "431d8bafe8c07db9",
-        "parentUid" : "3e23688dc750052593c44ba8ee1e8a78",
-        "status" : "broken",
-        "time" : {
-          "start" : 1622203503557,
-          "stop" : 1622203506129,
-          "duration" : 2572
+          "start" : 1622203670095,
+          "stop" : 1622203672662,
+          "duration" : 2567
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
-      } ],
-      "uid" : "3e23688dc750052593c44ba8ee1e8a78"
-    }, {
-      "name" : "19160-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "65fa194263bc76a4",
-        "parentUid" : "7ef2a7809c5b9aea4db13571a9f00293",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622198382530,
-          "stop" : 1622198387421,
-          "duration" : 4891
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "7ef2a7809c5b9aea4db13571a9f00293"
-    }, {
-      "name" : "15372-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "59b0dae876ec9e9a",
-        "parentUid" : "f5b6a45f3d3cde31d4064b3c214f8b57",
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "b5a710d72b4b0925",
+        "parentUid" : "0d8a3c4c62eae9ac6575d809b56b9e11",
         "status" : "broken",
         "time" : {
-          "start" : 1622193186169,
-          "stop" : 1622193186169,
-          "duration" : 0
+          "start" : 1622203664835,
+          "stop" : 1622203667408,
+          "duration" : 2573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      } ],
+      "uid" : "0d8a3c4c62eae9ac6575d809b56b9e11"
+    }, {
+      "name" : "11680-MainThread",
+      "children" : [ {
+        "name" : "登录测试反向用例",
+        "uid" : "46ed584a1534b1c7",
+        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204342239,
+          "stop" : 1622204345088,
+          "duration" : 2849
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名正确-密码错误', 'username': '18843010983', 'password': 'ipmnl', 'error_msg': '账号或密码错误'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "d6d832ad3a089884",
+        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204338646,
+          "stop" : 1622204342232,
+          "duration" : 3586
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-密码为空', 'username': '18843010983', 'password': '', 'error_msg': '密码不能为空'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "af2b5006f64d71f8",
+        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622204315586,
+          "stop" : 1622204338611,
+          "duration" : 23025
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名错误-密码正确', 'username': 'plkjf才有', 'password': 'ipmnlfiof', 'error_msg': '登录验证失败，用户名不存在'}" ]
+      }, {
+        "name" : "登录测试反向用例",
+        "uid" : "1204942c63dfe639",
+        "parentUid" : "34a1ff3de6a2c2cc573343b62ade30a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622204312659,
+          "stop" : 1622204315581,
+          "duration" : 2922
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '反向用例-用户名为空', 'username': '', 'password': 'ipmnlfiof', 'error_msg': '用户名不能为空'}" ]
+      } ],
+      "uid" : "34a1ff3de6a2c2cc573343b62ade30a1"
+    }, {
+      "name" : "15780-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "4b30d4ba7a644602",
+        "parentUid" : "126672065f4ea30929a0ed43519505d7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622195513987,
+          "stop" : 1622195514025,
+          "duration" : 38
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "f5b6a45f3d3cde31d4064b3c214f8b57"
+      "uid" : "126672065f4ea30929a0ed43519505d7"
     }, {
       "name" : "18400-MainThread",
       "children" : [ {
         "name" : "登录测试正向用例",
-        "uid" : "f98bc35166404004",
+        "uid" : "db5bb1637e32ccf0",
         "parentUid" : "8448f774ba20b38b5991319cc39876b7",
         "status" : "broken",
         "time" : {
@@ -893,39 +1359,56 @@
       } ],
       "uid" : "8448f774ba20b38b5991319cc39876b7"
     }, {
-      "name" : "19072-MainThread",
+      "name" : "12292-MainThread",
       "children" : [ {
         "name" : "登录测试正向用例",
-        "uid" : "918605c15ecab2cb",
-        "parentUid" : "78a90b6c9cb3b98c75536f10637ef430",
-        "status" : "passed",
-        "time" : {
-          "start" : 1622196260113,
-          "stop" : 1622196265038,
-          "duration" : 4925
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "78a90b6c9cb3b98c75536f10637ef430"
-    }, {
-      "name" : "956-MainThread",
-      "children" : [ {
-        "name" : "登录测试正向用例",
-        "uid" : "bbdc67f01cc47925",
-        "parentUid" : "7bb4695d443f539dd66c36821642df49",
+        "uid" : "e5096d192ef1c03e",
+        "parentUid" : "34ef39a05c986dd3b9dd7fba2a767b94",
         "status" : "broken",
         "time" : {
-          "start" : 1622193465258,
-          "stop" : 1622193465258,
-          "duration" : 0
+          "start" : 1622197060007,
+          "stop" : 1622197060046,
+          "duration" : 39
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "7bb4695d443f539dd66c36821642df49"
+      "uid" : "34ef39a05c986dd3b9dd7fba2a767b94"
+    }, {
+      "name" : "15468-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "5356d57140af33ee",
+        "parentUid" : "aae0ebf043dbdc5c64629fa1ca2f1739",
+        "status" : "broken",
+        "time" : {
+          "start" : 1622193148469,
+          "stop" : 1622193148470,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aae0ebf043dbdc5c64629fa1ca2f1739"
+    }, {
+      "name" : "17352-MainThread",
+      "children" : [ {
+        "name" : "登录测试正向用例",
+        "uid" : "d9cef7e803bac55",
+        "parentUid" : "8266046456349cf5bafb22788f19f89f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622194382736,
+          "stop" : 1622194387311,
+          "duration" : 4575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8266046456349cf5bafb22788f19f89f"
     } ],
     "uid" : "6b876e6996b9565a54f0ec4316923548"
   } ]

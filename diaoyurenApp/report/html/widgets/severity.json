@@ -1,50 +1,50 @@
 [ {
-  "uid" : "5a039785127ba7f5",
+  "uid" : "4621cbca0ab88568",
   "name" : "登录测试正向用例",
   "time" : {
-    "start" : 1622204585101,
-    "stop" : 1622204590207,
-    "duration" : 5106
+    "start" : 1622306955476,
+    "stop" : 1622306960408,
+    "duration" : 4932
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4460fd8b0543719b",
+  "uid" : "54365185533a8a73",
   "name" : "登录测试反向用例",
   "time" : {
-    "start" : 1622204576216,
-    "stop" : 1622204579040,
-    "duration" : 2824
+    "start" : 1622306947012,
+    "stop" : 1622306949816,
+    "duration" : 2804
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d3194c025d2e93f3",
+  "uid" : "f08f586143d62595",
   "name" : "登录测试反向用例",
   "time" : {
-    "start" : 1622204573269,
-    "stop" : 1622204576132,
-    "duration" : 2863
+    "start" : 1622306944100,
+    "stop" : 1622306946967,
+    "duration" : 2867
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "849a3eeb836586bf",
+  "uid" : "5024df492dbcd6ad",
   "name" : "登录测试反向用例",
   "time" : {
-    "start" : 1622204579044,
-    "stop" : 1622204582250,
-    "duration" : 3206
+    "start" : 1622306949821,
+    "stop" : 1622306952635,
+    "duration" : 2814
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8067c8149b6bd29e",
+  "uid" : "3242148a670906c8",
   "name" : "登录测试反向用例",
   "time" : {
-    "start" : 1622204582255,
-    "stop" : 1622204585096,
-    "duration" : 2841
+    "start" : 1622306952639,
+    "stop" : 1622306955456,
+    "duration" : 2817
   },
   "status" : "passed",
   "severity" : "normal"

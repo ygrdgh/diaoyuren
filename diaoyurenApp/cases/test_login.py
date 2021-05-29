@@ -42,6 +42,7 @@ class TestLogin:
     @allure.title('登录测试反向用例')
     @pytest.mark.parametrize('data', failed_data)
     def test_login_failed(self, handler, data):
+
         logger.info('开始执行反向测试用例：{}'.format(data['name']))
         handler[1].login(data['username'], data['password'])
         logger.info('反向用例输入完成')

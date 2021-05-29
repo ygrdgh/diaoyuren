@@ -1,0 +1,150 @@
+INFO     root:get_log.py:28 开始执行反向测试用例：反向用例-用户名错误-密码正确
+INFO     root:get_log.py:28 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，plkjf才有
+INFO     root:get_log.py:28 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "id", "value": "com.lchr.diaoyu:id/user_id"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element/60162dbc-1b33-4c58-a861-d46fd18d2c85/value {"text": "plkjf\u624d\u6709", "value": ["p", "l", "k", "j", "f", "\u624d", "\u6709"], "id": "60162dbc-1b33-4c58-a861-d46fd18d2c85"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element/60162dbc-1b33-4c58-a861-d46fd18d2c85/value HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:get_log.py:28 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/passwd_id')，ipmnlfiof
+INFO     root:get_log.py:28 开始查找页面元素：('id', 'com.lchr.diaoyu:id/passwd_id')
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "id", "value": "com.lchr.diaoyu:id/passwd_id"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element/f4803bdc-b2a0-49ba-a65b-e8e3c30b6979/value {"text": "ipmnlfiof", "value": ["i", "p", "m", "n", "l", "f", "i", "o", "f"], "id": "f4803bdc-b2a0-49ba-a65b-e8e3c30b6979"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element/f4803bdc-b2a0-49ba-a65b-e8e3c30b6979/value HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:get_log.py:28 开始点击页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+INFO     root:get_log.py:28 开始查找页面元素：('id', 'com.lchr.diaoyu:id/btn_login')
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "id", "value": "com.lchr.diaoyu:id/btn_login"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element/dd49ea29-05ba-4444-a5b3-711b65432a14/click {"id": "dd49ea29-05ba-4444-a5b3-711b65432a14"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element/dd49ea29-05ba-4444-a5b3-711b65432a14/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:get_log.py:28 反向用例输入完成
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element {"using": "xpath", "value": "//*[contains(@text,\u767b\u5f55\u9a8c\u8bc1\u5931\u8d25\uff0c\u7528\u6237\u540d\u4e0d\u5b58\u5728)]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/element HTTP/1.1" 400 7636
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+ERROR    root:get_log.py:34 Message: 
+
+WARNING  root:get_log.py:32 查找toast：('xpath', '//*[contains(@text,登录验证失败，用户名不存在)]')
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:4723/wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/screenshot {}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "GET /wd/hub/session/3af13255-d237-4620-92a4-0802c41d6d71/screenshot HTTP/1.1" 200 39616
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:get_log.py:28 截图成功，图片保存路径为：F:\PycharmProjects\diaoyurenApp\img\未发现toast-2021-05-28_20_18_58.png

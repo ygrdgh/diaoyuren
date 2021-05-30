@@ -1,9 +1,0 @@
-INFO     root:get_log.py:28 ++++++++++++++开始执行正向用例+++++++++++
-INFO     root:get_log.py:28 开始向页面元素发送数据：('id', 'com.lchr.diaoyu:id/user_id')，18843010983
-INFO     root:get_log.py:28 开始查找页面元素：('id', 'com.lchr.diaoyu:id/user_id')
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/c6cc8ec8-1739-471b-90e5-2d64578648e2/element {"using": "id", "value": "com.lchr.diaoyu:id/user_id"}
-DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "POST /wd/hub/session/c6cc8ec8-1739-471b-90e5-2d64578648e2/element HTTP/1.1" 404 530
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 DELETE http://127.0.0.1:4723/wd/hub/session/c6cc8ec8-1739-471b-90e5-2d64578648e2 {}
-DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:4723 "DELETE /wd/hub/session/c6cc8ec8-1739-471b-90e5-2d64578648e2 HTTP/1.1" 200 14
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
